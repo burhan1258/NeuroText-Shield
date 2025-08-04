@@ -1,7 +1,9 @@
-🧠 NeuroText Shield
+🧠 NeuroText Shield:
+
 NeuroText Shield is a smart, lightweight email spam and phishing detector, developed during the CS Girlies Hackathon – A.I vs H.I. This project brings together AI and human-centered design to enhance online safety, especially for users vulnerable to digital threats.
 
-🚀 About the Project
+🚀 About the Project:
+
 Spam and phishing emails remain a persistent digital security issue. NeuroText Shield uses natural language processing and machine learning to classify incoming messages in real time. Designed with simplicity and clarity, it's built to help everyday users stay protected without needing technical know-how.
 
 ✨ Key Features:
